@@ -1,0 +1,5 @@
+aiogram>=3.22.0
+google-generativeai>=0.8.5
+requests>=2.32.0
+Pillow>=10.0.0
+
